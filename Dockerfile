@@ -1,5 +1,5 @@
 # Image: dnssec-sldns-a
-# Startup a docker container as BIND slave for DNS SLDs
+# Startup a docker container as BIND master for DNS SLDs
 
 FROM dnssecworkshop/dnssec-bind
 
